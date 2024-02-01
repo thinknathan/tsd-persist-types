@@ -4,6 +4,8 @@
 
 <a href="https://discord.gg/eukcq5m"><img alt="Chat with us!" src="https://img.shields.io/discord/766898804896038942.svg?colorB=7581dc&logo=discord&logoColor=white"></a>
 
+> ❗ This repo will be archived after being contributed to the [Library](https://github.com/ts-defold/library).
+
 TypeScript types for Klayton Kowalski's [Persist](https://github.com/klaytonkowalski/library-defold-persist), a simple interface for saving and loading data in a Defold game engine project.
 
 For use with [TS-Defold](https://github.com/ts-defold) and [TypeScriptToLua](https://github.com/TypeScriptToLua).
